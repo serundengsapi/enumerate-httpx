@@ -1,15 +1,15 @@
 ## How to Use
 
 ### Contoh Penggunaan
-> Single Target:
+1 Single Target:
 
 `bash script.sh -d example.com`
 
-> List Target:
+2 List Target:
 
 `bash script.sh -l domains.txt`
 
-> Menyimpan Output ke File:
+3 Menyimpan Output ke File:
 
 `bash script.sh -d example.com -o results.txt`
 
